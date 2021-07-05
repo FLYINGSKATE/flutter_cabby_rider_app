@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916213787249",
+    "project_id": "cabbyrider",
+    "storage_bucket": "cabbyrider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916213787249:android:461bdfd26bd54320cfc9d0",
+        "android_client_info": {
+          "package_name": "com.ashinc.cabby_rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916213787249-8eobpogn8qv9vq521qpl1p8c3sccoggj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAII8whIhJoBg2GvffuTSXwlWRE7fnbru4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916213787249-8eobpogn8qv9vq521qpl1p8c3sccoggj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
